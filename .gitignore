@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# FOLDER with Heavy images
+imagenes/
+
 # Log file
 *.log
 
